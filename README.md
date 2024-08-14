@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou @PedroReiDEV
+- 👋 Olá, eu sou Pedro Silva F. Santos 
 - 👀 I’m interested in PC's Buildings, programing, superheros, games, anime, mangás and culinary
 - estou cursando eletroeletrônica pelo Senai e análise e desenvolvimento de sistemas pela Fatec
 
