@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou o Pedro Silva Faria dos Santos!
+# Olá, eu sou o Pedro Silva Faria dos Santos!
 
-🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas (FATEC)** e **Eletricista de Manutenção Eletroeletrônica (SENAI)**. Atualmente desenvolvo projetos que unem **programação, eletrônica e inovação** para resolver problemas reais.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (FATEC)** e **Eletricista de Manutenção Eletroeletrônica (SENAI)**. Atualmente desenvolvo projetos que unem **programação, eletrônica e inovação** para resolver problemas reais.
 
 ---
 
-## 💻 Tecnologias & Habilidades
-- **Linguagens:** Java, JavaScript, TypeScript, SQL
+##  Tecnologias & Habilidades
+- **Linguagens:** Java, JavaScript, TypeScript, SQL, C++
 - **Web:** HTML5, CSS3, Web Design básico
 - **Banco de Dados:** MySQL
 - **Versionamento:** Git e GitHub
@@ -13,19 +13,19 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-✨ **[Vital Connected](https://github.com/PedroReiDEV)**  
+##  Projetos em Destaque
+ **[Vital Connected](https://github.com/FATEC-PI-3-SEMESTRE)**  
 Sistema web em Java com MySQL para gerenciamento de usuários, cuidadores, medicamentos e dispositivos.  
 
-🔋 **Life Smart Dispenser**  
+ **Life Smart Dispenser**  
 Protótipo em Arduino de um dispenser automático de remédios para a pessoa certa na hora certa.  
 
-📊 **Tonabe – Sistema de Produção**  
+ **[Tonabe](https://github.com/Tonabe)**  
 Sistema em JavaScript/TypeScript para cadastro e gestão de produção de uma empresa fictícia.
 
 ---
 
-## 🌱 Atualmente aprendendo:
+##  Atualmente aprendendo:
 - Spring Boot
 - Cibersegurança
 - Indústria 4.0 e IoT
