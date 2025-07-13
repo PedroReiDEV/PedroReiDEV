@@ -1,8 +1,37 @@
-- 👋 Olá, eu sou Pedro Silva F. Santos 
-- 👀 I’m interested in PC's Buildings, programing, superheros, games, anime, mangás and culinary
-- Sou um profissional com formação diversificada em eletricista de manutenção eletroeletrônica no Senai, informática e Análise e Desenvolvimento de Sistemas pela Fatec. Minha experiência abrange desde a manutenção e reparo de sistemas elétricos até o desenvolvimento de soluções tecnológicas, sempre com foco em eficiência e inovação. No GitHub, compartilho projetos que combinam essas habilidades, buscando sempre aprender e contribuir para a comunidade.
+# 👋 Olá, eu sou o Pedro Silva Faria dos Santos!
 
-<!---
-PedroReiDEV/PedroReiDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas (FATEC)** e **Eletricista de Manutenção Eletroeletrônica (SENAI)**. Atualmente desenvolvo projetos que unem **programação, eletrônica e inovação** para resolver problemas reais.
+
+---
+
+## 💻 Tecnologias & Habilidades
+- **Linguagens:** Java, JavaScript, TypeScript, SQL
+- **Web:** HTML5, CSS3, Web Design básico
+- **Banco de Dados:** MySQL
+- **Versionamento:** Git e GitHub
+- **Outros:** Arduino, Prototipagem, APIs REST
+
+---
+
+## 🚀 Projetos em Destaque
+✨ **[Vital Connected](https://github.com/PedroReiDEV)**  
+Sistema web em Java com MySQL para gerenciamento de usuários, cuidadores, medicamentos e dispositivos.  
+
+🔋 **Life Smart Dispenser**  
+Protótipo em Arduino de um dispenser automático de remédios para a pessoa certa na hora certa.  
+
+📊 **Tonabe – Sistema de Produção**  
+Sistema em JavaScript/TypeScript para cadastro e gestão de produção de uma empresa fictícia.
+
+---
+
+## 🌱 Atualmente aprendendo:
+- Spring Boot
+- Cibersegurança
+- Indústria 4.0 e IoT
+
+---
+
+📫 **Vamos nos conectar?**  
+- 🔗 [LinkedIn](https://linkedin.com/in/pedro-silva-faria-dos-santos-1814902aa)  
+- 💻 [Meu Portfólio no GitHub](https://github.com/PedroReiDEV)
